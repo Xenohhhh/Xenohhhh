@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there,<br><br>Nice meeting you, I'm Satvik!<br><br><br>I'm currently learning web development along with DSA.<br>Interested in Competitive Programming.<br>Planning to explore Machine Learning in the future.<br><br>
+Hi there,<br><br>Nice meeting you, I'm Satvik!<br><br><br>I'm currently learning web development along with DSA.<br>Interested in Competitive Programming.<br>Planning to explore DevOps in the future.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xenohhh3) 
